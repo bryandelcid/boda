@@ -86,11 +86,11 @@ section:nth-child(1) {
 }
 
 section:nth-child(2) {
-    background-image: linear-gradient(#0009,#0009),url(/fotos/xv-hands.jpeg)
+    background-image: linear-gradient(#0009,#0009),url(boda/fotos/xv-hands.jpeg)
 }
 
 section:nth-child(3) {
-    background-image: linear-gradient(#0009,#0009),url(/fotos/xv-estela.jpeg)
+    background-image: linear-gradient(#0009,#0009),url('boda/fotos/xv-estela.jpeg')
 }
 
 section:nth-child(4) {
