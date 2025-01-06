@@ -82,7 +82,7 @@ section {
 }
 
 section:nth-child(1) {
-    background-image: linear-gradient(#0009,#0009),url(/fotos/grad-bry-port.jpeg)
+    background-image: linear-gradient(#0009,#0009),url(./fotos/grad-bry-port.jpeg)
 }
 
 section:nth-child(2) {
