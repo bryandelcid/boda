@@ -654,22 +654,6 @@ main {
     border-radius: .7rem
 }
 
-.amount__passes__title {
-    margin-top: 1.6rem;
-    display: block;
-    text-align: center
-}
-
-.amount__passes {
-    display: flex;
-    justify-content: center;
-    text-align: center
-}
-
-.amount__passes label {
-    display: block
-}
-
 .amount__passes input {
     width: 4rem;
     text-align: center;
@@ -709,8 +693,4 @@ main {
 
 .copy_message.active {
     opacity: 100%
-}
-
-.bgimg {
-    background-image: url('/fotos/xv-estela.jpeg');
 }
